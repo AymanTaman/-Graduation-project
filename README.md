@@ -64,5 +64,5 @@ UAV in flight
 ---
 
 ## For More Details
-Everything — full design specs, component selection analysis, circuit diagrams, test cases, cost breakdown, and Gantt chart — is in the 📄 [CEN493 Directional Antenna Controller for UAV Data Link](./CEN493%20Directional%20Antenna%20Controller%20for%20UAV%20Data%20Link.pdf).
+Everything — full design specs, component selection analysis, circuit diagrams, test cases, cost breakdown, and Gantt chart — is in the 📄 [CEN493 Directional Antenna Controller for UAV Data Link](./CEN493%20Directional%20Antenna%20Controller%20for%20UAV%20Data%20Link%20.pdf).
 
