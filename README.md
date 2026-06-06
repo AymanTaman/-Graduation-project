@@ -6,8 +6,7 @@
 
 **Advisors:** Dr. Abdulmohsen Almutairi & Dr. Salman Alqahtani
 
- CEN493 Directional Antenna Controller for UAV Data Link (./CEN493 Directional Antenna Controller for UAV Data Link .pdf)
-
+📄 [CEN493 Directional Antenna Controller for UAV Data Link](./CEN493%20Directional%20Antenna%20Controller%20for%20UAV%20Data%20Link.pdf)
 ---
 
 ## What is this?
