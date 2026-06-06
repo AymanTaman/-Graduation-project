@@ -1,4 +1,4 @@
-# 📡 Directional Antenna Controller for UAV Data Link
+#  Directional Antenna Controller for UAV Data Link
 
 > **CEN 493 – Graduation Project** | Department of Computer Engineering | 2nd Semester 2026
 
