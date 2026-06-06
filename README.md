@@ -6,7 +6,7 @@
 
 **Advisors:** Dr. Abdulmohsen Almutairi & Dr. Salman Alqahtani
 
- **CEN493 Directional Antenna Controller for UAV Data Link (./CEN493 Directional Antenna Controller for UAV Data Link .pdf)**
+ CEN493 Directional Antenna Controller for UAV Data Link (./CEN493 Directional Antenna Controller for UAV Data Link .pdf)
 
 ---
 
@@ -65,5 +65,5 @@ UAV in flight
 ---
 
 ## For More Details
-Everything — full design specs, component selection analysis, circuit diagrams, test cases, cost breakdown, and Gantt chart — is in the **CEN493 Directional Antenna Controller for UAV Data Link (./CEN493 Directional Antenna Controller for UAV Data Link .pdf)**.
+Everything — full design specs, component selection analysis, circuit diagrams, test cases, cost breakdown, and Gantt chart — is in the CEN493 Directional Antenna Controller for UAV Data Link (./CEN493 Directional Antenna Controller for UAV Data Link .pdf).
 
